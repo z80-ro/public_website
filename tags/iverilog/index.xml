@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iVerilog on Z80.ro</title>
+    <link>/tags/iverilog/</link>
+    <description>Recent content in iVerilog on Z80.ro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/iverilog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing verilog tools</title>
+      <link>/post/testing_verilog_tools/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/testing_verilog_tools/</guid>
+      <description>Following the articles from this point on might require some prior Verilog+FPGA knowledge.
+My plan is to skip the boring part from every book/tutorial and jump into action head first. I preffer learning from increasingly difficult examples along the way than read about every boring detail, get tired and abandon hope altogether. For me this approach generates less questions and when they do arise they are usually important, leading to A-HA!</description>
+    </item>
+    
+  </channel>
+</rss>

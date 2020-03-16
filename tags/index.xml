@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Z80.ro</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Z80.ro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FPGA</title>
+      <link>/tags/fpga/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GtkWave</title>
+      <link>/tags/gtkwave/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gtkwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Icebreaker</title>
+      <link>/tags/icebreaker/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/icebreaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iVerilog</title>
+      <link>/tags/iverilog/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/iverilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ninja</title>
+      <link>/tags/ninja/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ninja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verilog</title>
+      <link>/tags/verilog/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/verilog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

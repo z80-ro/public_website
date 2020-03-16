@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Z80.ro</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Z80.ro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing verilog tools</title>
+      <link>/post/testing_verilog_tools/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/testing_verilog_tools/</guid>
+      <description>Following the articles from this point on might require some prior Verilog+FPGA knowledge.
+My plan is to skip the boring part from every book/tutorial and jump into action head first. I preffer learning from increasingly difficult examples along the way than read about every boring detail, get tired and abandon hope altogether. For me this approach generates less questions and when they do arise they are usually important, leading to A-HA!</description>
+    </item>
+    
+    <item>
+      <title>Install verilog tools</title>
+      <link>/post/install-icestorm/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/install-icestorm/</guid>
+      <description>First let&amp;rsquo;s get this out of the way: I use Linux
+Technically these tools should be platform-agnostic and work on other OSes like Windows or MacOS.
+I use Linux Mint and whenever I start fresh with a new environment I like to install the following packages:
+sudo apt update sudo apt install git tig zsh tmux neovim mc htop build-essential python3 python3-pip yasm p7zip p7zip-full gparted -y  IceStorm tools Most of these steps were copied from the project&amp;rsquo;s page and improved/updated.</description>
+    </item>
+    
+  </channel>
+</rss>
