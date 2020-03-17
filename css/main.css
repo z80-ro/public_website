@@ -1,3 +1,4 @@
+/* Derived from https://github.com/wild-flame/jekyll-simple */
 @charset "UTF-8";
 .dont-break-out, .post { /* Careful, this breaks the word wherever it is without a hyphen */ overflow-wrap: break-word; word-wrap: break-word; /* Adds a hyphen where the word breaks */ -webkit-hyphens: auto; -ms-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
 
