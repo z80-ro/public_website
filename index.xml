@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Setting up the clock frequency</title>
+      <link>/post/setting_up_the_frequency/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting_up_the_frequency/</guid>
+      <description>Next step would be to test a sequential circuit and make sure simulation works. I will try to implement a 32bit counter in verilog and try to get some feedback about the values it holds using a few LEDs.
+ Default net type First thing is to tell Verilog to be as strict as possible when trying to guess the types of my wires/regs. By default Verilog does not require me to declare signals before I use them.</description>
+    </item>
+    
+    <item>
       <title>Testing verilog tools</title>
       <link>/post/testing_verilog_tools/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>

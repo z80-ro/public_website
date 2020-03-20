@@ -4,22 +4,42 @@
   
   <url>
     <loc>/tags/fpga/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/gtkwave/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/icebreaker/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/iverilog/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/setting_up_the_frequency/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/verilog/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +48,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/testing_verilog_tools/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/verilog/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url>
   

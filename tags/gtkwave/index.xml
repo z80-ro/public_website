@@ -5,10 +5,20 @@
     <link>/tags/gtkwave/</link>
     <description>Recent content in GtkWave on Z80.ro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/gtkwave/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Setting up the clock frequency</title>
+      <link>/post/setting_up_the_frequency/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/setting_up_the_frequency/</guid>
+      <description>Next step would be to test a sequential circuit and make sure simulation works. I will try to implement a 32bit counter in verilog and try to get some feedback about the values it holds using a few LEDs.
+ Default net type First thing is to tell Verilog to be as strict as possible when trying to guess the types of my wires/regs. By default Verilog does not require me to declare signals before I use them.</description>
+    </item>
     
     <item>
       <title>Testing verilog tools</title>
