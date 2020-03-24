@@ -245,7 +245,18 @@ endmodule
 
 </code></pre><p>The way I link the two files together is I pass the regular CLK clock to PLL and I use its output connected to PLL_CLK. The always block is sensitive to PLL_CLK now.
 I am also checking to see if the PLL is locked on the input signal and if it&rsquo;s not I just wait in the counter = 0 state.</p>
-<p>Testing this design on the FPGA surfaces a small problem: the LEDs appear to be constantly lit or blinking really fast. Because the frequency is now higher choosing bits 20 and 22 for the LED outputs no longer seems like a good idea. Changing these to 24 and 26 brings the functionality close to what I expected</p>
+<p>Testing this design on the FPGA surfaces a small problem: the LEDs appear to be constantly lit or blinking really fast. Because the frequency is now higher choosing bits 20 and 22 for the LED outputs no longer seems like a good idea.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/bXSDJy3mS4A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Changing these to 24 and 26 brings the functionality close to what I expected</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/-SFLIDn5Tfk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <div class="highlight"><pre class="chroma"><code class="language-verilog" data-lang="verilog"><span class="k">assign</span> <span class="n">LED_GREEN5</span> <span class="o">=</span> <span class="n">counter</span><span class="p">[</span><span class="mh">26</span><span class="p">];</span>    <span class="c1">// Changed bits because FPGA is clocked much faster now
 </span><span class="c1"></span><span class="k">assign</span> <span class="n">LED_GREEN4</span> <span class="o">=</span> <span class="n">counter</span><span class="p">[</span><span class="mh">24</span><span class="p">];</span>    <span class="c1">// previously they were 20 and 22
 </span></code></pre></div><p>I can also change the frequency from the top module like this:</p>
