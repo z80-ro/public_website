@@ -5,10 +5,21 @@
     <link>/post/</link>
     <description>Recent content in Posts on Z80.ro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using PLL for a faster clock</title>
+      <link>/post/using_pll/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using_pll/</guid>
+      <description>The counter works but 12MHz is quite slow for a lot of operations, including generating video signals.
+FPGAs come with specialized logic blocks I can instantiate in my design and use them as any other verilog module. They have parameters, inputs and outputs and they offer various functions like SPI, I2C, RAM, SERDES or PLL. They are called primitives.
+Tipically these PLL blocks have an voltage-controlled oscillator (VCO) with a very high frequency, in case of ICE40 it has to run between 533MHz and 1066MHz.</description>
+    </item>
     
     <item>
       <title>Setting up the clock frequency</title>

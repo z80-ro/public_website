@@ -5,7 +5,7 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Z80.ro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>FPGA</title>
       <link>/tags/fpga/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/fpga/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>GtkWave</title>
       <link>/tags/gtkwave/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gtkwave/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Icebreaker</title>
       <link>/tags/icebreaker/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/icebreaker/</guid>
       <description></description>
@@ -40,16 +40,25 @@
     <item>
       <title>iVerilog</title>
       <link>/tags/iverilog/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/iverilog/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>PLL</title>
+      <link>/tags/pll/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Verilog</title>
       <link>/tags/verilog/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/verilog/</guid>
       <description></description>
